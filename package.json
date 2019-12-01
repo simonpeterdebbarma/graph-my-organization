@@ -1,5 +1,5 @@
 {
-  "name": "watson-org-viz",
+  "name": "network",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -27,5 +27,5 @@
     "babel-preset-stage-2": "^6.24.1",
     "jest-cli": "^25.0.0"
   },
-  "homepage": "https://jzhang300.github.io/graph-my-organization/"
+  "homepage": "https://simonpeterdebbarma.github.io/network/"
 }
